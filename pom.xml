@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.ua.sutty</groupId>
-    <artifactId>crud-postgres</artifactId>
+    <artifactId>crud-h2</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>crud-postgres</name>
+    <name>crud-h2</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
